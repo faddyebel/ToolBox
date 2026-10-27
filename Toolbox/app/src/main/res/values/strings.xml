@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Toolbox</string>
+    <string name="acc_desc">Автокликер (касания по экрану) и блокировка приложений PIN-кодом</string>
+</resources>
